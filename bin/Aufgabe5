@@ -1,0 +1,34 @@
+
+
+In der Mensa gab es am <<Datum>> <<ESSEN>> bei <<ESSENSART>>.
+
+Für das o.g. Schema dürfen Platzhalter nach gewissen Regeln gefüllt sein:
+• Datum kann ein Datum im beliebigen Format (z.B. 1.1.2015) oder ein Wochentag sein
+• Essen kann der Name eines Essens sein
+• Essensart ist der Name der Ausgabe kann Ausgabe 1, Ausgabe 2 usw. sein.
+
+-----------------------------------------------------------------------------------
+
+• In der Mensa gab es am Montag Curryhuhn mit Erdnusssoße bei Ausgabe 1.
+	Richtig 
+
+
+
+
+• In der Mensa gab es gestern Thüringer Bratwurst bei Ausgabe 2.
+	"am" fehlt. > syntaktisch 
+	"gestern" ist semantisch falsch  "in der variable" 
+
+
+
+
+• In der Mensa gab es am 21.10.2022 Linsensuppe bei Ausgabe 3.
+	Richtig 
+
+
+
+
+• In der Mensa gibt es am 21.10.2022 Linsensuppe bei Ausgabe 3.
+	"gibt" statt "gab" 	> syntaktisch 
+
+
