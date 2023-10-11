@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Aufgabe3 {
 
 	public static void main(String[] args) {
-		int d;
+		double d;
 		Scanner in = new Scanner(System.in);
 		System.out.println("Bitte den Kugeldurchmesser eingeben.");
 		d = in.nextInt();
