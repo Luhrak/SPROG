@@ -16,6 +16,7 @@ public class Aufgabe3 {
 		System.out.println("Der Radius beträgt: " + r + 
 							"\nDas Volumen beträgt: " + V);
 
+		in.close();
 	}
 
 }

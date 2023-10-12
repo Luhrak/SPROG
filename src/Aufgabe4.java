@@ -26,6 +26,7 @@ public class Aufgabe4 {
 							"\nZweites Zwischenergebnis: " + cd +
 							"\nDas Gesammtergebnis beträgt: " + Ergebnis);
 
+		in.close();
 	}
 
 }

@@ -24,6 +24,7 @@ public class Aufgabe2 {
 							"\nDie Oberfläche beträgt: " + O +
 							"\nDie Kantenlänge beträgt: " + K);
 
+		in.close();
 	}
 
 }

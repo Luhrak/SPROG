@@ -11,6 +11,7 @@ public class Aufgabe1_HelloRegNumber {
 		
 		System.out.println("Hallo, " + MaNu);
 
+		in.close();
 	}
 
 }
